@@ -15,10 +15,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/ClearSpend/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/ClearSpend/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/ClearSpend/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/ClearSpend/terms.html | ⏳ Pending (subscription app) |
+| Landing Page | https://asunnyboy861.github.io/ClearSpend/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/ClearSpend/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/ClearSpend/privacy.html | ✅ Active |
+| Terms of Use | https://asunnyboy861.github.io/ClearSpend/terms.html | ✅ Active (subscription app) |
 
 ## Repository Structure
 
