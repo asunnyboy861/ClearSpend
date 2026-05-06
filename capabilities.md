@@ -31,5 +31,5 @@ Based on operation guide analysis, the following capabilities are required:
 - In-App Purchase: Required but configured via StoreKit 2 in code
 
 ## Verification
-- Build succeeded after configuration: Pending (will verify after code generation)
-- All entitlements correct: Pending
+- Build succeeded after configuration: ✅
+- All entitlements correct: ✅
